@@ -1,13 +1,3 @@
-👋 Olá, eu sou Beatriz S. Toneloto!
-🌍 Nascida em São Paulo, morando no Paraná 🇧🇷
-👩‍⚕️ Formada em Enfermagem e 📚 estudando Ciência da Computação!
-💻 Explorando o mundo da programação, com interesse em:
-
-🖥️ Desenvolvimento de Apps e Web (Full-Stack)
-🎨 UI/UX Design
-🛠️ Engenharia de Software
-🔍 Qualidade e Garantia de Software
-🎲 Análise de Dados
-
-🚀 Gosto de resolver problemas com lógica e raciocínio lógico. 
-Sempre aprendendo e em busca de novas habilidades!🎯
+👋 Hi, I'm Beatriz S. Toneloto! 🌍 Born in São Paulo, living in Paraná 🇧🇷 👩‍⚕️ Graduated in Nursing and 📚 studying Computer Science! 💻 Exploring the world of programming, with an interest in:
+🎨 UI/UX Design and Graphic Design 🔍 Software Quality and Assurance 🎲 Data Analysis
+🚀 I like solving problems with logic and logical thinking. Always learning and looking for new skills!🎯
