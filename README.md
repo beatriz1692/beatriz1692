@@ -3,3 +3,5 @@
 🚀 I like solving problems with logic and logical thinking. Always learning and looking for new skills!🎯
 
 Behance - https://www.behance.net/beatriztoneloto1692/projects
+Google Drive - https://drive.google.com/drive/folders/1223G645m8Wwn-6oAFYJKChHds1OJw3IV?usp=drive_link
+LinkedIn - https://www.linkedin.com/in/beatriz-saraiva-toneloto-7b8a40199/
